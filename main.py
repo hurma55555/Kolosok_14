@@ -2,7 +2,7 @@ import telebot # Обычно библиотеки для МАХ похожи н
 from telebot import types
 
 # Вставьте сюда ТОКЕН, который вы получили в панели "МАХ для партнеров"
-TOKEN = 'ВАШ_ТОКЕН_ЗДЕСЬ'
+TOKEN = 'f9LHodD0cOKJR6TZV2NRzQLNIqco7UDuPVLntAQFAuy1dKAk5pOeoKwoseF7H0Aw3R5GOAtkSi5KuZzq7OQf'
 bot = telebot.TeleBot(TOKEN)
 
 # Главное меню
